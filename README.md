@@ -5,6 +5,25 @@
 Spooky Pasta is a passive Open-Source Intelligence (OSINT) reconnaissance project focused on analyzing GitHub's publicly available attack surface without directly interacting with or attempting to exploit the target.
 
 The project demonstrates how publicly accessible information can be collected, correlated, and analyzed to identify potential security exposures and provide evidence-based recommendations.
+## My Contribution
+
+Spooky Pasta was completed as a collaborative cybersecurity project focused on passive OSINT reconnaissance of GitHub's publicly available attack surface.
+
+My individual responsibility was **Part 1 – Technical Footprint**, where I conducted passive reconnaissance to identify and analyze publicly available technical information related to GitHub's external infrastructure.
+
+My work included:
+
+* WHOIS and domain-registration research
+* DNS and domain infrastructure analysis
+* MX record analysis
+* SPF record analysis
+* Certificate Transparency research using crt.sh
+* Netcraft reconnaissance
+* Identification of publicly exposed infrastructure information
+* Analysis of potential security implications
+* Documentation and presentation of findings
+
+The remaining sections of the project were completed by other members of the project team. The full presentation is included to provide context for the team's overall reconnaissance methodology and findings.
 
 ## Objective
 
