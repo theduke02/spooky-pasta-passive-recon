@@ -80,7 +80,7 @@ This project was conducted for educational and cybersecurity training purposes. 
 
 The complete project presentation, methodology, findings, and recommendations are available in the PDF included in this repository.
 
-➡️ **View Full Project Report (PDF).**
+[View Full Project Report (PDF)](Spooky-Pasta-Passive-OSINT-Project.pdf)
 
 ---
 
